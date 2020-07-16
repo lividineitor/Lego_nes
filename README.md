@@ -6,5 +6,4 @@ El proyecto tiene una caducidad clara, en el momento que la consola salga al mer
 
 El avance realizado es el siguiente:
 
-##LegoNES (LeoCAD)
 ![LegoNES](https://raw.githubusercontent.com/lividineitor/Lego_nes/master/LegoNES.png)
